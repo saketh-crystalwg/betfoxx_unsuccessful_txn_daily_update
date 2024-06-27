@@ -1,0 +1,1 @@
+worker: python betfoxx_unsuccessful_txns_daily_update.py
